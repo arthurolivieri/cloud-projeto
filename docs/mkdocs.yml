@@ -1,6 +1,7 @@
 site_name: cloud-projeto-1
 nav:
   - Home: index.md
-  - About: about.md
+  - Prints da API: testes.md
+  - Vídeo do funcionamento: video.md
 theme:
   name: material
