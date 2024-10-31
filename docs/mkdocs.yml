@@ -1,0 +1,6 @@
+site_name: cloud-projeto-1
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: material
