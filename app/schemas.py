@@ -1,16 +1,20 @@
 from pydantic import BaseModel
 
+class UserCreate(BaseModel):
+    nome: str
+    email: str
+    senha: str
 
-class UserBase(BaseModel):
+class LoginRequest(BaseModel):
+    email: str
+    senha: str
+
+class Token(BaseModel):
+    jwt: str
+
+class TokenData(BaseModel):
     email: str
 
-class UserCreate(UserBase):
-    password: str
-    email: str
-    name: str
-
-class User(UserBase):
-    id: int
-    is_active: bool
-    class Config:
-        orm_mode = True
+class Joke(BaseModel):
+    setup: str
+    delivery: str
