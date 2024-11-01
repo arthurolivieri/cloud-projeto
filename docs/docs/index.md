@@ -18,7 +18,9 @@ O meu projeto cobre os requisitos da proposta, permitindo cadastrar e autenticar
 
 3. [<a href="compose.yaml" download>Link para o download do compose.yaml</a>](#)
 
-4. No repositório github, o compose.yaml encontra-se na raíz do projeto.
+4. [Link para o vídeo de demonstração no youtube](https://youtu.be/9XHn0FeS8_Y)
+
+5. No repositório github, o compose.yaml encontra-se na raíz do projeto.
 
 ----
 
