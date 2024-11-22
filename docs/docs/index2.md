@@ -19,13 +19,13 @@ O meu projeto cobre os requisitos da proposta, permitindo cadastrar e autenticar
 3. [Link para o vídeo de demonstração no youtube](https://youtu.be/CnLoiLQRv14)
 4. [Link para o serviço de consultas rodando na AWS](http://a27025c21229a4b2081bf6fb37ad3df1-327827612.us-east-2.elb.amazonaws.com/docs)
 
-5. No repositório github, os arquivos de configuração de deploy (`app-deployment.yaml` e `postgres-deployment.yaml`) encontram-se na pasta `aws-files`.
+5. No repositório github, os arquivos de configuração de deploy (`app-deployment.yaml` e `postgres-deployment.yaml`) encontram-se na pasta `aws-files` e, também, nas abas da documentação.
 
 ----
 
 ## Executando o serviço:
 
-Como o serviço está hospedado na aws, não é necessária nenhuma configuração para consumi-lo. Basta entrar no link [http://a27025c21229a4b2081bf6fb37ad3df1-327827612.us-east-2.elb.amazonaws.com/docs]() e testar da mesma maneira que fez na primeira etapa do projeto. Na parte a seguir, estão as diretrizes sobre como testar a API (exatamente da mesma maneira da primeira parte do projeto).
+Como o serviço está hospedado na aws, não é necessária nenhuma configuração para consumi-lo. Basta entrar no link http://a27025c21229a4b2081bf6fb37ad3df1-327827612.us-east-2.elb.amazonaws.com/docs e testar da mesma maneira que fez na primeira etapa do projeto. Na parte a seguir, estão as diretrizes sobre como testar a API (exatamente da mesma maneira da primeira parte do projeto).
 
 ----
 

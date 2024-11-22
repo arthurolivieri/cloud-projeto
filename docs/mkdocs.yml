@@ -6,5 +6,9 @@ nav:
     - Vídeo do funcionamento: video.md
   - Projeto - parte 2:
     - Home: index2.md
+    - Breve explicação: explicacao.md
+    - Vídeo do funcionamento - AWS: video2.md
+    - app-deployment.yaml : app-deployment.md
+    - postgres-deployment.yaml : postgres-deployment.md
 theme:
   name: material
